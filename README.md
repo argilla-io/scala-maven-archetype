@@ -1,2 +1,2 @@
-# scale-maven-archetype
+# scala-maven-archetype
 Simplest scala maven archetype
